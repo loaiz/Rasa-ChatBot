@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Cookies",
+            "description": "Carefully baked cookies"
+        },
+        {
+            "id": 2,
+            "name": "Cakes",
+            "description": "Cakes of all sizes and flavors"
+        },
+        {
+            "id": 3,
+            "name": "Desserts",
+            "description": "Tasty desserts for kids and grown ups"
+        },
+        {
+            "id": 4,
+            "name": "Brownies",
+            "description": "Everybody loves brownies"
+        }
+    ]
+}
